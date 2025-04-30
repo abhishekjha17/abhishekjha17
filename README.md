@@ -1,4 +1,4 @@
-👋 Hi, I’m @abhishekjha17, Engineering @ LinkedIn
+👋 Hi, I’m @abhishekjha17
 
 <!---
 abhishekjha17/abhishekjha17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
